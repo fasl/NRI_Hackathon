@@ -1,0 +1,1 @@
+[{"id":"6bc9631d.bd60dc","type":"change","z":"b9bab9c6.7646d","name":"speech to payload","rules":[{"t":"set","p":"payload","pt":"msg","to":"speech","tot":"msg"}],"action":"","property":"","from":"","to":"","reg":false,"x":1030,"y":920,"wires":[["156d6b6.e668a95"]]}]
